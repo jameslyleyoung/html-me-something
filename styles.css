@@ -1,0 +1,26 @@
+html {
+    text-align:center;
+    margin: auto;
+    padding: 100px;
+    background-color: lightblue;
+    width: 700px;
+}
+
+ul {
+  list-style-type: none;
+  padding-right: 50px
+}
+
+#stopbeingsodumb {
+    height: 300px;
+    width: 300px;
+}
+
+h2 {
+    text-decoration: underline;
+
+}
+
+footer {
+    padding-top: 100px;
+}
